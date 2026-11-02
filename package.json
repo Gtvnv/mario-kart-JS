@@ -1,0 +1,24 @@
+{
+  "name": "mario-kart-simulator",
+  "version": "2.0.0",
+  "description": "Simulador de corridas do Mario Kart em Node.js — roster completo, seleção interativa de personagens, número de rodadas configurável e mecânicas extras (casco, bomba e turbo).",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "race": "node src/index.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "mario-kart",
+    "game",
+    "simulator",
+    "cli"
+  ],
+  "author": "",
+  "license": "ISC"
+}
